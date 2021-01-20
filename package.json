@@ -44,7 +44,7 @@
     "axios": "^0.16.1",
     "bulma": "0.8.2",
     "curve-interpolator": "^2.0.6",
-    "gsap": "^3.0.2",
+    "gsap": "^3.6.0",
     "lodash.clonedeep": "^4.5.0",
     "portable-executable": "0.0.1",
     "robot-js": "git@github.com:Robot/robot-js.git#dev",
